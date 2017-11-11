@@ -7,7 +7,7 @@ using System.Windows.Forms;
 namespace chongbo
 {
     static class Program
-    {
+    { 
         /// <summary>
         /// 应用程序的主入口点。
         /// </summary>
